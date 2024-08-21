@@ -1,0 +1,12 @@
+C:\Users\rodrigo.nunes.est\Desktop\Rodrigo\Curso C#\Psiconect\eComerce\eComerce.Models\bin\Debug\net6.0\eComerce.Models.deps.json
+C:\Users\rodrigo.nunes.est\Desktop\Rodrigo\Curso C#\Psiconect\eComerce\eComerce.Models\bin\Debug\net6.0\eComerce.Models.dll
+C:\Users\rodrigo.nunes.est\Desktop\Rodrigo\Curso C#\Psiconect\eComerce\eComerce.Models\bin\Debug\net6.0\eComerce.Models.pdb
+C:\Users\rodrigo.nunes.est\Desktop\Rodrigo\Curso C#\Psiconect\eComerce\eComerce.Models\obj\Debug\net6.0\eComerce.Models.csproj.AssemblyReference.cache
+C:\Users\rodrigo.nunes.est\Desktop\Rodrigo\Curso C#\Psiconect\eComerce\eComerce.Models\obj\Debug\net6.0\eComerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.nunes.est\Desktop\Rodrigo\Curso C#\Psiconect\eComerce\eComerce.Models\obj\Debug\net6.0\eComerce.Models.AssemblyInfoInputs.cache
+C:\Users\rodrigo.nunes.est\Desktop\Rodrigo\Curso C#\Psiconect\eComerce\eComerce.Models\obj\Debug\net6.0\eComerce.Models.AssemblyInfo.cs
+C:\Users\rodrigo.nunes.est\Desktop\Rodrigo\Curso C#\Psiconect\eComerce\eComerce.Models\obj\Debug\net6.0\eComerce.Models.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.nunes.est\Desktop\Rodrigo\Curso C#\Psiconect\eComerce\eComerce.Models\obj\Debug\net6.0\eComerce.Models.dll
+C:\Users\rodrigo.nunes.est\Desktop\Rodrigo\Curso C#\Psiconect\eComerce\eComerce.Models\obj\Debug\net6.0\refint\eComerce.Models.dll
+C:\Users\rodrigo.nunes.est\Desktop\Rodrigo\Curso C#\Psiconect\eComerce\eComerce.Models\obj\Debug\net6.0\eComerce.Models.pdb
+C:\Users\rodrigo.nunes.est\Desktop\Rodrigo\Curso C#\Psiconect\eComerce\eComerce.Models\obj\Debug\net6.0\ref\eComerce.Models.dll
